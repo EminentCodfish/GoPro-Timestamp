@@ -1,0 +1,6 @@
+#ignore *.exe
+*.exe
+
+#ignore video files
+*.MP4
+*.avi
